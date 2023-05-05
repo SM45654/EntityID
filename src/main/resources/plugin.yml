@@ -1,0 +1,13 @@
+name: EntityID
+version: 1.1.2-SNAPSHOT
+author: SM45654
+main: at.sm45654.entityid.EntityID
+api-version: 1.19
+
+commands:
+  wand:
+    permission: entityid.wand
+
+permissions:
+  entityid.wand:
+    default: op
